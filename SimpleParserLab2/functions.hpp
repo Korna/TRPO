@@ -1,0 +1,6 @@
+#ifndef COMMAND_FUNCTIONS
+#define COMMAND_FUNCTIONS
+
+
+
+#endif
